@@ -1,0 +1,1214 @@
+﻿Log file open, 12/01/20 22:21:51
+LogInit: Display: Running engine for game: GameToolsProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195810
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicLibrary/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+[2020.12.01-22.21.51:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.01-22.21.51:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+[2020.12.01-22.21.51:761][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+[2020.12.01-22.21.51:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.01-22.21.51:764][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.01-22.21.51:765][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.01-22.21.51:766][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.01-22.21.51:767][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.01-22.21.51:767][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.01-22.21.51:767][  0]LogHAL: Display: Platform has ~ 8 GB [8471191552 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.01-22.21.51:767][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.01-22.21.51:767][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.01-22.21.51:767][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.01-22.21.51:768][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.01-22.21.51:769][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.01-22.21.51:769][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.01-22.21.51:769][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.01-22.21.51:769][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/GameToolsProject/Saved/Config/Windows/Engine.ini]
+[2020.12.01-22.21.51:769][  0]LogInit: Computer: LAPTOP-QO355IRA
+[2020.12.01-22.21.51:769][  0]LogInit: User: popey
+[2020.12.01-22.21.51:769][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.01-22.21.51:769][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.01-22.21.51:769][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.12.01-22.21.51:769][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.01-22.21.51:769][  0]LogMemory: Process Physical Memory: 113.58 MB used, 113.58 MB peak
+[2020.12.01-22.21.51:769][  0]LogMemory: Process Virtual Memory: 96.05 MB used, 96.05 MB peak
+[2020.12.01-22.21.51:769][  0]LogMemory: Physical Memory: 4964.85 MB used,  3113.91 MB free, 8078.76 MB total
+[2020.12.01-22.21.51:769][  0]LogMemory: Virtual Memory: 5143.16 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.12.01-22.21.51:781][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.01-22.21.51:838][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.01-22.21.51:839][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.01-22.21.51:839][  0]LogInit: Using OS detected locale (en-GB).
+[2020.12.01-22.21.51:842][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.01-22.21.52:081][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.01-22.21.52:136][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.01-22.21.52:136][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.01-22.21.52:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.01-22.21.52:511][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.01-22.21.52:511][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.01-22.21.52:511][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.01-22.21.52:612][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.12.01-22.21.52:612][  0]LogD3D11RHI:       4018/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.01-22.21.52:631][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.12.01-22.21.52:631][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.01-22.21.52:636][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.01-22.21.52:636][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.01-22.21.52:636][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.01-22.21.52:680][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.01-22.21.52:680][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.12.01-22.21.52:680][  0]LogWindows: EnumDisplayDevices:
+[2020.12.01-22.21.52:681][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.12.01-22.21.52:681][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.01-22.21.52:682][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.01-22.21.52:682][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.01-22.21.52:682][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.01-22.21.52:683][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.01-22.21.52:684][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.01-22.21.52:684][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.01-22.21.52:684][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.12.01-22.21.52:684][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.12.01-22.21.52:684][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.12.01-22.21.52:684][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.12.01-22.21.52:744][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.01-22.21.52:747][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.12.01-22.21.52:747][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.01-22.21.52:747][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.01-22.21.52:773][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.01-22.21.53:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.01-22.21.53:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.01-22.21.53:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.01-22.21.53:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.01-22.21.53:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.01-22.21.53:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.01-22.21.53:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.01-22.21.53:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.01-22.21.53:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.01-22.21.53:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.01-22.21.53:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.01-22.21.53:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.01-22.21.53:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.01-22.21.53:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.01-22.21.53:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.01-22.21.53:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.01-22.21.53:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.01-22.21.53:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.01-22.21.53:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.01-22.21.53:500][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.01-22.21.53:519][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.01-22.21.53:627][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../Unreal Projects/GameToolsProject/Intermediate/Shaders/WorkingDirectory/5856/).
+[2020.12.01-22.21.53:628][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/popey/AppData/Local/Temp/UnrealShaderWorkingDir/A88E87A7413673F059817CB015773EB9/'.
+[2020.12.01-22.21.53:628][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.01-22.21.53:628][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.01-22.21.53:628][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.01-22.21.54:710][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.01-22.21.54:788][  0]LogDerivedDataCache: Loaded boot cache 0.08s 76MB C:/Users/popey/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.01-22.21.54:788][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/popey/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.01-22.21.54:788][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/GameToolsProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.01-22.21.54:788][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.01-22.21.54:788][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/GameToolsProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.01-22.21.54:788][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.01-22.21.54:802][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.01-22.21.54:802][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.01-22.21.54:802][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.01-22.21.54:804][  0]LogDerivedDataCache: Using Local data cache path C:/Users/popey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.01-22.21.54:804][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.01-22.21.54:804][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.01-22.21.54:879][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.01-22.21.54:880][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.01-22.21.54:917][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.12.01-22.21.55:243][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.01-22.21.55:425][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.01-22.21.55:426][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.01-22.21.55:426][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.01-22.21.55:426][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.01-22.21.55:426][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.01-22.21.55:449][  0]LogNetVersion: GameToolsProject 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3650669623)
+[2020.12.01-22.21.56:045][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000130E76D37C0), frame # 0
+[2020.12.01-22.21.56:045][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130E76CD080), frame # 0
+[2020.12.01-22.21.56:047][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000130E772DE00), frame # 0
+[2020.12.01-22.21.56:142][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.085406 seconds
+[2020.12.01-22.21.56:149][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.01-22.21.56:149][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.01-22.21.56:149][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.01-22.21.56:710][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.01-22.21.56:718][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.01-22.21.56:853][  0]SourceControl: Source control is disabled
+[2020.12.01-22.21.56:854][  0]SourceControl: Source control is disabled
+[2020.12.01-22.21.56:860][  0]SourceControl: Source control is disabled
+[2020.12.01-22.21.56:866][  0]SourceControl: Source control is disabled
+[2020.12.01-22.21.56:880][  0]SourceControl: Source control is disabled
+[2020.12.01-22.21.57:317][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.01-22.21.57:355][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.01-22.21.57:355][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.01-22.21.57:437][  0]LogOcInput: OculusInput pre-init called
+[2020.12.01-22.21.57:455][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.01-22.21.57:455][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.01-22.21.57:546][  0]LogEngine: Initializing Engine...
+[2020.12.01-22.21.57:548][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.01-22.21.57:548][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.01-22.21.57:550][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.01-22.21.57:721][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.01-22.21.57:731][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.01-22.21.57:731][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000130EA3A7C00), frame # 0
+[2020.12.01-22.21.57:731][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130EA3AFB00), frame # 0
+[2020.12.01-22.21.57:756][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.01-22.21.57:756][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.01-22.21.57:756][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.01-22.21.57:756][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.01-22.21.57:756][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.01-22.21.57:756][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.01-22.21.57:757][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.01-22.21.57:757][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.01-22.21.57:757][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.01-22.21.57:757][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.01-22.21.57:784][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.01-22.21.57:784][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.01-22.21.57:846][  0]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.12.01-22.21.57:849][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.01-22.21.57:852][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.01-22.21.57:852][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.01-22.21.57:853][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.01-22.21.57:854][  0]LogInit: FAudioDevice initialized.
+[2020.12.01-22.21.57:854][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.01-22.21.57:913][  0]LogDerivedDataCache: Saved boot cache 0.06s 76MB C:/Users/popey/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.01-22.21.57:914][  0]LogInit: Texture streaming: Enabled
+[2020.12.01-22.21.57:939][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.01-22.21.57:939][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.01-22.21.57:947][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.01-22.21.58:001][  0]LogInit: Transaction tracking system initialized
+[2020.12.01-22.21.58:039][  0]BlueprintLog: New page: Editor Load
+[2020.12.01-22.21.58:166][  0]LocalizationService: Localization service is disabled
+[2020.12.01-22.21.58:391][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.01-22.21.58:391][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.01-22.21.58:631][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameToolsProject/Content/' took 0.01s
+[2020.12.01-22.21.58:926][  0]SourceControl: Source control is disabled
+[2020.12.01-22.21.58:926][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.653
+[2020.12.01-22.21.58:926][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameToolsProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.01-22.21.58:927][  0]LightingResults: New page: Lighting Build
+[2020.12.01-22.21.58:928][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-22.21.58:928][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.21.58:928][  0]MapCheck: New page: Map Check
+[2020.12.01-22.21.58:928][  0]LightingResults: New page: Lighting Build
+[2020.12.01-22.21.58:939][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000130EA3A7C00), frame # 0
+[2020.12.01-22.21.58:939][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000130EA3AFB00), frame # 0
+[2020.12.01-22.21.58:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.01-22.21.59:318][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.01-22.21.59:318][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000130D992FE00), frame # 0
+[2020.12.01-22.21.59:318][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130D9943B00), frame # 0
+[2020.12.01-22.21.59:332][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.01-22.21.59:356][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.12.01-22.21.59:356][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.01-22.21.59:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.12.01-22.21.59:357][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.430
+[2020.12.01-22.21.59:359][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.086
+[2020.12.01-22.21.59:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.21.59:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.21.59:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.21.59:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.21.59:567][  0]LogCollectionManager: Loaded 0 collections in 0.001602 seconds
+[2020.12.01-22.21.59:588][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameToolsProject/Saved/Collections/' took 0.00s
+[2020.12.01-22.21.59:588][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameToolsProject/Content/Developers/popey/Collections/' took 0.00s
+[2020.12.01-22.21.59:588][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameToolsProject/Content/Collections/' took 0.00s
+[2020.12.01-22.21.59:588][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 3427 classes and 821 folders.
+[2020.12.01-22.21.59:591][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.01-22.21.59:699][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.01-22.21.59:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.12.01-22.21.59:761][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.01-22.21.59:766][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.01-22.21.59:772][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.01-22.21.59:862][  0]LogRenderer: Reallocating scene render targets to support 980x432 Format 10 NumSamples 1 (Frame:1).
+[2020.12.01-22.22.00:026][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.12.01-22.22.00:026][  0]LogLoad: (Engine Initialization) Total time: 10.75 seconds
+[2020.12.01-22.22.00:026][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.01-22.22.00:086][  0]LogAssetRegistry: Asset discovery search completed in 5.1705 seconds
+[2020.12.01-22.22.00:093][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.01-22.22.00:095][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.01-22.22.00:116][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.01-22.22.08:161][422]Cmd: EDIT COPY
+[2020.12.01-22.22.10:297][519]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.01-22.22.10:325][519]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/GameLevel.GameLevel
+[2020.12.01-22.22.10:337][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.12.01-22.22.10:339][519]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameToolsProject/Content/FirstPersonBP/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.01-22.22.10:339][519]LightingResults: New page: Lighting Build
+[2020.12.01-22.22.10:339][519]LoadErrors: New page: Loading map: GameLevel.umap
+[2020.12.01-22.22.10:341][519]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-22.22.10:341][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.22.10:342][519]MapCheck: New page: Map Check
+[2020.12.01-22.22.10:342][519]LightingResults: New page: Lighting Build
+[2020.12.01-22.22.10:353][519]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000130D992FE00), frame # 519
+[2020.12.01-22.22.10:353][519]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000130D9943B00), frame # 519
+[2020.12.01-22.22.10:354][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.01-22.22.10:357][519]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.01-22.22.10:357][519]LogAIModule: Creating AISystem for world GameLevel
+[2020.12.01-22.22.10:358][519]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000130D0E7D400), frame # 519
+[2020.12.01-22.22.10:358][519]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130D9941800), frame # 519
+[2020.12.01-22.22.10:369][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.01-22.22.10:388][519]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.01-22.22.10:388][519]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2020.12.01-22.22.10:388][519]LogFileHelpers: Loading map 'GameLevel' took 0.049
+[2020.12.01-22.22.12:466][639]Cmd: EDIT PASTE
+[2020.12.01-22.22.37:434][110]LogEditorViewport: Clicking Background
+[2020.12.01-22.22.38:840][193]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.12.01-22.22.55:437][162]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.01-22.22.55:453][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.01-22.22.55:454][162]PIE: New page: PIE session: GameLevel (1 Dec 2020, 22:22:55)
+[2020.12.01-22.22.55:455][162]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.01-22.22.55:457][162]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.01-22.22.55:457][162]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.22.55:461][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004200s)
+[2020.12.01-22.22.55:463][162]LogAIModule: Creating AISystem for world GameLevel
+[2020.12.01-22.22.55:463][162]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001309992F000), frame # 3162
+[2020.12.01-22.22.55:463][162]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130A83F4E00), frame # 3162
+[2020.12.01-22.22.55:463][162]LogPlayLevel: PIE: World Init took: (0.002132s)
+[2020.12.01-22.22.55:463][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/GameLevel.GameLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel (0.006612s)
+[2020.12.01-22.22.55:484][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.01-22.22.55:486][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.01-22.22.55:486][162]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.01-22.22.55:486][162]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.01-22.22.55:489][162]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.01-22.22.55:489][162]LogAudioMixer: Display: 1: FrontRight
+[2020.12.01-22.22.55:523][162]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.12.01-22.22.55:523][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.01-22.22.55:523][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.01-22.22.55:523][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.01-22.22.55:524][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.01-22.22.55:540][162]LogInit: FAudioDevice initialized.
+[2020.12.01-22.22.55:551][162]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.01-22.22.55:553][162]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2020.12.01-22.22.55
+[2020.12.01-22.22.55:592][162]LogWorld: Bringing up level for play took: 0.039614
+[2020.12.01-22.22.55:592][162]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.12.01-22.22.55:596][162]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.01-22.22.55:596][162]PIE: Server logged in
+[2020.12.01-22.22.55:598][162]PIE: Play in editor total start time 0.148 seconds.
+[2020.12.01-22.23.05:097][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.23.05:097][716]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.23.05:097][716]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-22.23.05:097][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.23.05:104][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.01-22.23.05:105][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.23.05:136][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.23.05:137][716]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001309992F000), frame # 3716
+[2020.12.01-22.23.05:137][716]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000130A83F4E00), frame # 3716
+[2020.12.01-22.23.05:138][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.01-22.23.05:171][718]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.12.01-22.25.33:130][659]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.01-22.27.06:945][244]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_106' invalid (1522 verts, 0 indices).
+[2020.12.01-22.27.06:946][244]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_106.BodySetup_0 when we are unable to.
+[2020.12.01-22.27.06:948][244]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_110' invalid (1522 verts, 0 indices).
+[2020.12.01-22.27.06:948][244]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_110.BodySetup_0 when we are unable to.
+[2020.12.01-22.27.24:713][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_118' invalid (1522 verts, 0 indices).
+[2020.12.01-22.27.24:713][290]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_118.BodySetup_0 when we are unable to.
+[2020.12.01-22.27.24:715][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_122' invalid (1522 verts, 0 indices).
+[2020.12.01-22.27.24:715][290]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_122.BodySetup_0 when we are unable to.
+[2020.12.01-22.27.31:287][678]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_129' invalid (1522 verts, 0 indices).
+[2020.12.01-22.27.31:287][678]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_129.BodySetup_0 when we are unable to.
+[2020.12.01-22.27.31:289][678]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_133' invalid (1522 verts, 0 indices).
+[2020.12.01-22.27.31:289][678]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_133.BodySetup_0 when we are unable to.
+[2020.12.01-22.27.31:289][678]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_134' invalid (1522 verts, 0 indices).
+[2020.12.01-22.27.31:289][678]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_134.BodySetup_0 when we are unable to.
+[2020.12.01-22.27.32:447][745]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.12.01-22.27.34:069][841]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.12.01-22.27.45:201][502]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.01-22.29.44:622][407]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.01-22.29.58:934][253]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.01-22.30.05:689][653]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_141' invalid (1656 verts, 0 indices).
+[2020.12.01-22.30.05:689][653]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_141.BodySetup_0 when we are unable to.
+[2020.12.01-22.30.05:690][653]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_145' invalid (1656 verts, 0 indices).
+[2020.12.01-22.30.05:690][653]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_145.BodySetup_0 when we are unable to.
+[2020.12.01-22.30.05:691][653]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_146' invalid (1656 verts, 0 indices).
+[2020.12.01-22.30.05:691][653]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_146.BodySetup_0 when we are unable to.
+[2020.12.01-22.30.12:603][ 62]LogGeometryMode: Warning: Unable to find CylinderBrush Brush(s) in new BSP
+[2020.12.01-22.30.12:603][ 62]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.32.03:803][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.12.01-22.32.03:842][700]LogSavePackage: Moving '../../../../../Unreal Projects/GameToolsProject/Saved/GameLevel14FD0AD94CBFA65506730F9FAE7B3BC9.tmp' to '../../../../../Unreal Projects/GameToolsProject/Content/FirstPersonBP/Maps/GameLevel.umap'
+[2020.12.01-22.32.03:879][700]AssetCheck: New page: Asset Save: GameLevel
+[2020.12.01-22.32.03:879][700]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GameLevel.GameLevel
+[2020.12.01-22.32.22:188][785]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.01-22.32.22:946][829]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.01-22.32.29:660][224]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_153' invalid (1656 verts, 0 indices).
+[2020.12.01-22.32.29:660][224]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_153.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.29:663][224]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_157' invalid (1656 verts, 0 indices).
+[2020.12.01-22.32.29:663][224]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_157.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.29:663][224]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_158' invalid (1656 verts, 0 indices).
+[2020.12.01-22.32.29:664][224]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_158.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.39:159][787]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_165' invalid (1648 verts, 0 indices).
+[2020.12.01-22.32.39:159][787]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_165.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.39:161][787]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_169' invalid (1648 verts, 0 indices).
+[2020.12.01-22.32.39:161][787]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_169.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.39:161][787]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_170' invalid (1648 verts, 0 indices).
+[2020.12.01-22.32.39:161][787]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_170.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.42:594][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.12.01-22.32.42:628][977]LogSavePackage: Moving '../../../../../Unreal Projects/GameToolsProject/Saved/GameLevelA360C7C54E68856AB5E419BDA72F3C74.tmp' to '../../../../../Unreal Projects/GameToolsProject/Content/FirstPersonBP/Maps/GameLevel.umap'
+[2020.12.01-22.32.42:661][977]AssetCheck: New page: Asset Save: GameLevel
+[2020.12.01-22.32.42:661][977]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GameLevel.GameLevel
+[2020.12.01-22.32.45:236][128]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.01-22.32.45:247][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.01-22.32.45:247][128]PIE: New page: PIE session: GameLevel (1 Dec 2020, 22:32:45)
+[2020.12.01-22.32.45:247][128]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.32.45:256][128]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_170' invalid (1648 verts, 0 indices).
+[2020.12.01-22.32.45:256][128]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_170.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.45:256][128]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_169' invalid (1648 verts, 0 indices).
+[2020.12.01-22.32.45:256][128]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_169.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.45:258][128]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_165' invalid (1648 verts, 0 indices).
+[2020.12.01-22.32.45:258][128]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_165.BodySetup_0 when we are unable to.
+[2020.12.01-22.32.45:259][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011942s)
+[2020.12.01-22.32.45:260][128]LogAIModule: Creating AISystem for world GameLevel
+[2020.12.01-22.32.45:260][128]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000130961CA600), frame # 24128
+[2020.12.01-22.32.45:260][128]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130D990A840), frame # 24128
+[2020.12.01-22.32.45:260][128]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2020.12.01-22.32.45:260][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/GameLevel.GameLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel (0.013303s)
+[2020.12.01-22.32.45:270][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.01-22.32.45:274][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.01-22.32.45:274][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.01-22.32.45:274][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.01-22.32.45:274][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.01-22.32.45:274][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.01-22.32.45:274][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.01-22.32.45:274][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.01-22.32.45:274][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.01-22.32.45:275][128]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.01-22.32.45:275][128]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.01-22.32.45:281][128]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.01-22.32.45:281][128]LogAudioMixer: Display: 1: FrontRight
+[2020.12.01-22.32.45:315][128]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.12.01-22.32.45:316][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.01-22.32.45:316][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.01-22.32.45:316][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.01-22.32.45:316][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.01-22.32.45:331][128]LogInit: FAudioDevice initialized.
+[2020.12.01-22.32.45:345][128]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.01-22.32.45:348][128]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2020.12.01-22.32.45
+[2020.12.01-22.32.45:348][128]LogWorld: Bringing up level for play took: 0.002045
+[2020.12.01-22.32.45:349][128]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.12.01-22.32.45:351][128]PIE: Server logged in
+[2020.12.01-22.32.45:352][128]PIE: Play in editor total start time 0.108 seconds.
+[2020.12.01-22.32.47:126][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.32.47:126][224]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.32.47:126][224]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-22.32.47:126][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.32.47:137][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.01-22.32.47:139][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.32.47:148][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.32.47:171][224]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000130D990A840), frame # 24224
+[2020.12.01-22.32.47:171][224]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000130961CA600), frame # 24224
+[2020.12.01-22.32.47:172][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.01-22.32.47:193][225]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.12.01-22.34.22:034][579]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.01-22.34.22:045][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.01-22.34.22:046][579]PIE: New page: PIE session: GameLevel (1 Dec 2020, 22:34:22)
+[2020.12.01-22.34.22:072][579]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.34.22:079][579]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_170' invalid (1648 verts, 0 indices).
+[2020.12.01-22.34.22:079][579]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_170.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.22:079][579]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_169' invalid (1648 verts, 0 indices).
+[2020.12.01-22.34.22:079][579]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_169.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.22:080][579]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_165' invalid (1648 verts, 0 indices).
+[2020.12.01-22.34.22:080][579]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_165.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.22:081][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009135s)
+[2020.12.01-22.34.22:082][579]LogAIModule: Creating AISystem for world GameLevel
+[2020.12.01-22.34.22:082][579]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000130D992DE00), frame # 25579
+[2020.12.01-22.34.22:082][579]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130D9FBE480), frame # 25579
+[2020.12.01-22.34.22:082][579]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2020.12.01-22.34.22:082][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/GameLevel.GameLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel (0.010553s)
+[2020.12.01-22.34.22:092][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.01-22.34.22:094][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.01-22.34.22:094][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.01-22.34.22:094][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.01-22.34.22:094][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.01-22.34.22:094][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.01-22.34.22:094][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.01-22.34.22:094][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.01-22.34.22:094][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.01-22.34.22:095][579]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.01-22.34.22:095][579]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.01-22.34.22:098][579]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.01-22.34.22:098][579]LogAudioMixer: Display: 1: FrontRight
+[2020.12.01-22.34.22:132][579]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.12.01-22.34.22:132][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.01-22.34.22:132][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.01-22.34.22:132][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.01-22.34.22:133][579]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.01-22.34.22:150][579]LogInit: FAudioDevice initialized.
+[2020.12.01-22.34.22:158][579]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.01-22.34.22:160][579]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2020.12.01-22.34.22
+[2020.12.01-22.34.22:160][579]LogWorld: Bringing up level for play took: 0.001773
+[2020.12.01-22.34.22:161][579]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.12.01-22.34.22:163][579]PIE: Server logged in
+[2020.12.01-22.34.22:164][579]PIE: Play in editor total start time 0.122 seconds.
+[2020.12.01-22.34.29:165][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.34.29:165][973]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.34.29:165][973]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-22.34.29:166][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.34.29:175][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.01-22.34.29:176][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.34.29:207][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.34.29:208][973]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000130D9FBE480), frame # 25973
+[2020.12.01-22.34.29:208][973]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000130D992DE00), frame # 25973
+[2020.12.01-22.34.29:209][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.01-22.34.29:237][974]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.01-22.34.37:893][489]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.01-22.34.37:906][489]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_177' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.37:906][489]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_177.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.37:907][489]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_181' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.37:908][489]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_181.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.37:908][489]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_182' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.37:908][489]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_182.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.41:439][698]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_189' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.41:440][698]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_189.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.41:441][698]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_193' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.41:441][698]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_193.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.41:441][698]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_194' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.41:441][698]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_194.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.46:180][978]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_201' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.46:180][978]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_201.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.46:183][978]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_205' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.46:183][978]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_205.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.46:184][978]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_206' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.46:184][978]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_206.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.49:343][164]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_213' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.49:343][164]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_213.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.49:346][164]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_217' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.49:346][164]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_217.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.49:346][164]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_218' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.49:347][164]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_218.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.56:836][608]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_225' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.56:836][608]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_225.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.56:838][608]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_229' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.56:838][608]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_229.BodySetup_0 when we are unable to.
+[2020.12.01-22.34.56:838][608]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_230' invalid (1672 verts, 0 indices).
+[2020.12.01-22.34.56:838][608]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_230.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.11:502][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.12.01-22.35.11:545][481]LogSavePackage: Moving '../../../../../Unreal Projects/GameToolsProject/Saved/GameLevel368EBAFF43511D1C5613EA90FB892F4B.tmp' to '../../../../../Unreal Projects/GameToolsProject/Content/FirstPersonBP/Maps/GameLevel.umap'
+[2020.12.01-22.35.11:575][481]AssetCheck: New page: Asset Save: GameLevel
+[2020.12.01-22.35.11:575][481]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GameLevel.GameLevel
+[2020.12.01-22.35.22:497][ 28]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.12.01-22.35.24:560][143]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_237' invalid (1700 verts, 0 indices).
+[2020.12.01-22.35.24:560][143]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_237.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.24:562][143]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_241' invalid (1700 verts, 0 indices).
+[2020.12.01-22.35.24:562][143]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_241.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.24:562][143]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_242' invalid (1700 verts, 0 indices).
+[2020.12.01-22.35.24:562][143]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_242.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.30:245][480]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_249' invalid (1716 verts, 0 indices).
+[2020.12.01-22.35.30:245][480]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_249.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.30:247][480]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_253' invalid (1716 verts, 0 indices).
+[2020.12.01-22.35.30:247][480]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_253.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.30:248][480]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_254' invalid (1716 verts, 0 indices).
+[2020.12.01-22.35.30:248][480]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_254.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.31:311][542]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_261' invalid (1748 verts, 0 indices).
+[2020.12.01-22.35.31:311][542]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_261.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.31:313][542]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_265' invalid (1748 verts, 0 indices).
+[2020.12.01-22.35.31:314][542]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_265.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.31:314][542]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_266' invalid (1748 verts, 0 indices).
+[2020.12.01-22.35.31:314][542]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_266.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.32:581][617]Cmd: TRANSACTION UNDO
+[2020.12.01-22.35.32:581][617]LogEditorTransaction: Undo Move Actors
+[2020.12.01-22.35.32:597][617]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_249' invalid (1716 verts, 0 indices).
+[2020.12.01-22.35.32:597][617]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_249.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.32:600][617]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_253' invalid (1716 verts, 0 indices).
+[2020.12.01-22.35.32:600][617]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_253.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.32:600][617]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_254' invalid (1716 verts, 0 indices).
+[2020.12.01-22.35.32:600][617]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_254.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.32:601][617]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.01-22.35.32:601][617]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.12.01-22.35.32:601][617]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.35.32:950][625]Cmd: TRANSACTION UNDO
+[2020.12.01-22.35.32:950][625]LogEditorTransaction: Undo Move Actors
+[2020.12.01-22.35.32:967][625]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_237' invalid (1700 verts, 0 indices).
+[2020.12.01-22.35.32:967][625]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_237.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.32:968][625]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_241' invalid (1700 verts, 0 indices).
+[2020.12.01-22.35.32:968][625]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_241.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.32:969][625]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_242' invalid (1700 verts, 0 indices).
+[2020.12.01-22.35.32:969][625]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_242.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.32:969][625]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.01-22.35.32:969][625]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.12.01-22.35.32:969][625]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.35.33:367][642]Cmd: TRANSACTION UNDO
+[2020.12.01-22.35.33:367][642]LogEditorTransaction: Undo Move Actors
+[2020.12.01-22.35.33:384][642]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_225' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.33:384][642]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_225.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.33:385][642]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_229' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.33:385][642]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_229.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.33:385][642]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_230' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.33:386][642]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_230.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.33:386][642]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.01-22.35.33:386][642]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.12.01-22.35.33:386][642]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.35.38:941][969]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.38:941][969]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.38:943][969]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.38:943][969]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.38:943][969]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.38:943][969]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.48:086][510]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush2)
+[2020.12.01-22.35.50:862][568]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.12.01-22.35.52:725][675]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_285' invalid (1704 verts, 0 indices).
+[2020.12.01-22.35.52:725][675]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_285.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.52:726][675]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_289' invalid (1704 verts, 0 indices).
+[2020.12.01-22.35.52:726][675]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_289.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.52:727][675]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_290' invalid (1704 verts, 0 indices).
+[2020.12.01-22.35.52:727][675]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_290.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.59:439][ 64]Cmd: TRANSACTION UNDO
+[2020.12.01-22.35.59:439][ 64]LogEditorTransaction: Undo Move Actors
+[2020.12.01-22.35.59:455][ 64]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.59:455][ 64]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.59:459][ 64]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.59:459][ 64]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.59:459][ 64]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278' invalid (1672 verts, 0 indices).
+[2020.12.01-22.35.59:459][ 64]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278.BodySetup_0 when we are unable to.
+[2020.12.01-22.35.59:459][ 64]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.01-22.35.59:459][ 64]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.12.01-22.35.59:459][ 64]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.36.07:246][511]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_297' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.07:246][511]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_297.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.07:248][511]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_301' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.07:248][511]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_301.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.07:248][511]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_302' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.07:248][511]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_302.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.07:800][543]Cmd: TRANSACTION UNDO
+[2020.12.01-22.36.07:801][543]LogEditorTransaction: Undo Move Actors
+[2020.12.01-22.36.07:818][543]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.07:818][543]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.07:821][543]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.07:821][543]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.07:821][543]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.07:821][543]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.07:821][543]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.01-22.36.07:822][543]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.12.01-22.36.07:822][543]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.36.16:840][967]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.12.01-22.36.34:906][ 11]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_309' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.34:906][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_309.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.34:910][ 11]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_313' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.34:910][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_313.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.34:910][ 11]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_314' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.34:910][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_314.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.44:006][547]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_321' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.44:006][547]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_321.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.44:007][547]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_325' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.44:008][547]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_325.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.44:008][547]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_326' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.44:008][547]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_326.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.44:557][579]Cmd: TRANSACTION UNDO
+[2020.12.01-22.36.44:557][579]LogEditorTransaction: Undo Move Actors
+[2020.12.01-22.36.44:573][579]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_309' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.44:573][579]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_309.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.44:575][579]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_313' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.44:575][579]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_313.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.44:576][579]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_314' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.44:576][579]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_314.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.44:576][579]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.01-22.36.44:576][579]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.12.01-22.36.44:576][579]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.36.44:956][589]Cmd: TRANSACTION UNDO
+[2020.12.01-22.36.44:956][589]LogEditorTransaction: Undo Modifier [Edit]
+[2020.12.01-22.36.45:491][616]Cmd: TRANSACTION UNDO
+[2020.12.01-22.36.45:492][616]LogEditorTransaction: Undo Modifier [Extrude]
+[2020.12.01-22.36.46:196][655]Cmd: TRANSACTION UNDO
+[2020.12.01-22.36.46:196][655]LogEditorTransaction: Undo Modifier [Extrude]
+[2020.12.01-22.36.46:645][679]Cmd: TRANSACTION UNDO
+[2020.12.01-22.36.46:645][679]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.01-22.36.46:662][679]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_309' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.46:662][679]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_309.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.46:665][679]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_313' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.46:665][679]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_313.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.46:666][679]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_314' invalid (1704 verts, 0 indices).
+[2020.12.01-22.36.46:666][679]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_314.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.47:091][702]Cmd: TRANSACTION UNDO
+[2020.12.01-22.36.47:091][702]LogEditorTransaction: Undo Move Actors
+[2020.12.01-22.36.47:107][702]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.47:107][702]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.47:109][702]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.47:109][702]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.47:109][702]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278' invalid (1672 verts, 0 indices).
+[2020.12.01-22.36.47:109][702]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278.BodySetup_0 when we are unable to.
+[2020.12.01-22.36.47:110][702]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.12.01-22.36.47:110][702]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.12.01-22.36.47:110][702]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.01-22.37.00:853][511]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_333' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.00:853][511]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_333.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.00:855][511]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_337' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.00:855][511]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_337.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.00:855][511]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_338' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.00:855][511]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_338.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.01:183][526]Cmd: TRANSACTION UNDO
+[2020.12.01-22.37.01:183][526]LogEditorTransaction: Undo Edit Y
+[2020.12.01-22.37.01:230][526]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.01:230][526]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_273.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.01:232][526]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.01:232][526]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_277.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.01:232][526]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.01:232][526]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_278.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.09:663][ 11]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_345' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.09:663][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_345.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.09:665][ 11]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_349' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.09:665][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_349.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.09:665][ 11]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_350' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.09:665][ 11]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_350.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.12:221][163]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_357' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.12:221][163]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_357.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.12:223][163]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_361' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.12:223][163]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_361.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.12:224][163]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_362' invalid (1672 verts, 0 indices).
+[2020.12.01-22.37.12:224][163]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_362.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.23:625][843]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_369' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.23:625][843]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_369.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.23:628][843]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_373' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.23:628][843]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_373.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.31:736][321]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_382' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.31:736][321]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_382.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.31:738][321]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_386' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.31:738][321]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_386.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.36:933][631]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_395' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.36:933][631]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_395.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.36:935][631]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_399' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.36:935][631]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_399.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.41:376][896]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_409' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.41:376][896]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_409.BodySetup_0 when we are unable to.
+[2020.12.01-22.37.41:377][896]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_413' invalid (1706 verts, 0 indices).
+[2020.12.01-22.37.41:378][896]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_413.BodySetup_0 when we are unable to.
+[2020.12.01-22.38.02:154][ 98]Cmd: EDCALLBACK SURFPROPS
+[2020.12.01-22.38.09:919][554]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_423' invalid (1688 verts, 0 indices).
+[2020.12.01-22.38.09:919][554]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_423.BodySetup_0 when we are unable to.
+[2020.12.01-22.38.09:920][554]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_427' invalid (1688 verts, 0 indices).
+[2020.12.01-22.38.09:921][554]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_427.BodySetup_0 when we are unable to.
+[2020.12.01-22.42.48:468][951]LogSlate: Window 'Select Path' being destroyed
+[2020.12.01-22.42.48:655][951]LogStaticMesh: Building static mesh WallRunStaticMesh...
+[2020.12.01-22.42.48:732][951]LogStaticMesh: Built static mesh [0.07s] /Game/Geometry/Meshes/WallRunStaticMesh.WallRunStaticMesh
+[2020.12.01-22.42.48:791][951]LogActorFactory: Actor Factory created WallRunStaticMesh
+[2020.12.01-22.42.48:870][951]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_436' invalid (1648 verts, 0 indices).
+[2020.12.01-22.42.48:870][951]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_436.BodySetup_0 when we are unable to.
+[2020.12.01-22.42.48:872][951]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_440' invalid (1648 verts, 0 indices).
+[2020.12.01-22.42.48:873][951]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_440.BodySetup_0 when we are unable to.
+[2020.12.01-22.42.48:873][951]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_441' invalid (1648 verts, 0 indices).
+[2020.12.01-22.42.48:873][951]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.ModelComponent_441.BodySetup_0 when we are unable to.
+[2020.12.01-22.42.48:873][951]LogEditor: Error: Actor 'Brush /Game/FirstPersonBP/Maps/GameLevel.GameLevel:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2020.12.01-22.42.48:873][951]EditorErrors: New page: Actor Reattachment
+[2020.12.01-22.42.48:922][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.12.01-22.42.50:928][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallRunStaticMesh)
+[2020.12.01-22.43.16:100][963]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.01-22.43.16:128][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.01-22.43.16:128][963]PIE: New page: PIE session: GameLevel (1 Dec 2020, 22:43:16)
+[2020.12.01-22.43.16:128][963]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.43.16:142][963]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_441' invalid (1648 verts, 0 indices).
+[2020.12.01-22.43.16:142][963]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_441.BodySetup_0 when we are unable to.
+[2020.12.01-22.43.16:142][963]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_440' invalid (1648 verts, 0 indices).
+[2020.12.01-22.43.16:142][963]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_440.BodySetup_0 when we are unable to.
+[2020.12.01-22.43.16:143][963]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_436' invalid (1648 verts, 0 indices).
+[2020.12.01-22.43.16:143][963]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ModelComponent_436.BodySetup_0 when we are unable to.
+[2020.12.01-22.43.16:144][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015633s)
+[2020.12.01-22.43.16:145][963]LogAIModule: Creating AISystem for world GameLevel
+[2020.12.01-22.43.16:145][963]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000013090CC3200), frame # 45963
+[2020.12.01-22.43.16:145][963]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000130E6BD5D00), frame # 45963
+[2020.12.01-22.43.16:145][963]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2020.12.01-22.43.16:145][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/GameLevel.GameLevel to /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel (0.016881s)
+[2020.12.01-22.43.16:160][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.12.01-22.43.16:164][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.01-22.43.16:164][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.01-22.43.16:164][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.01-22.43.16:164][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.01-22.43.16:164][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.01-22.43.16:164][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.01-22.43.16:164][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.01-22.43.16:164][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.01-22.43.16:165][963]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.01-22.43.16:165][963]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.01-22.43.16:175][963]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.01-22.43.16:175][963]LogAudioMixer: Display: 1: FrontRight
+[2020.12.01-22.43.16:223][963]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.12.01-22.43.16:223][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.01-22.43.16:223][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.01-22.43.16:223][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.01-22.43.16:224][963]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.01-22.43.16:246][963]LogInit: FAudioDevice initialized.
+[2020.12.01-22.43.16:261][963]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.01-22.43.16:264][963]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2020.12.01-22.43.16
+[2020.12.01-22.43.16:265][963]LogWorld: Bringing up level for play took: 0.002158
+[2020.12.01-22.43.16:265][963]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.12.01-22.43.16:274][963]PIE: Server logged in
+[2020.12.01-22.43.16:275][963]PIE: Play in editor total start time 0.151 seconds.
+[2020.12.01-22.43.22:036][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.43.22:036][247]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_GameLevel
+[2020.12.01-22.43.22:036][247]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-22.43.22:036][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.43.22:054][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.01-22.43.22:055][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.43.22:069][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.01-22.43.22:105][247]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000130E6BD5D00), frame # 46247
+[2020.12.01-22.43.22:105][247]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000013090CC3200), frame # 46247
+[2020.12.01-22.43.22:106][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.01-22.43.22:143][248]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.01-22.43.50:074][953]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/WallRunStaticMesh.WallRunStaticMesh
+[2020.12.01-22.43.51:699][953]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-22.43.51:699][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-22.45.18:036][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.12.01-22.45.18:285][627]LogSavePackage: Moving '../../../../../Unreal Projects/GameToolsProject/Saved/GameLevel_Auto1FE7E71924025832ECCB4E488BDD4E3F6.tmp' to '../../../../../Unreal Projects/GameToolsProject/Saved/Autosaves/Game/FirstPersonBP/Maps/GameLevel_Auto1.umap'
+[2020.12.01-22.45.18:333][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/GameLevel' took 0.348
+[2020.12.01-22.45.18:334][627]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.348
+[2020.12.01-22.45.18:368][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/WallRunStaticMesh] ([1] browsable assets)...
+[2020.12.01-22.45.18:432][627]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/WallRunStaticMesh.WallRunStaticMesh]
+[2020.12.01-22.45.18:432][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/WallRunStaticMesh]
+[2020.12.01-22.45.18:503][627]LogSavePackage: Moving '../../../../../Unreal Projects/GameToolsProject/Saved/WallRunStaticMesh_Auto1B786445940A8629227EB07B744852C3A.tmp' to '../../../../../Unreal Projects/GameToolsProject/Saved/Autosaves/Game/Geometry/Meshes/WallRunStaticMesh_Auto1.uasset'
+[2020.12.01-22.45.18:512][627]LogFileHelpers: Auto-saving content packages took 0.178
+[2020.12.01-22.45.51:299][275]LogEditorTransaction: Undo Create Box Collision
+[2020.12.01-22.46.05:719][666]LogRHI: Error: Present Fail Count 1
+[2020.12.01-22.46.05:719][666]LogRHI: Error: SyncInterval 0
+[2020.12.01-22.46.05:719][666]LogRHI: Error: SwapChainDesc.BufferDesc.Width 318
+[2020.12.01-22.46.05:719][666]LogRHI: Error: SwapChainDesc.BufferDesc.Height 404
+[2020.12.01-22.46.05:719][666]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.12.01-22.46.05:719][666]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.12.01-22.46.05:719][666]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.OutputWindow 00000000001E0934
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.12.01-22.46.05:720][666]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.12.01-22.46.05:720][666]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2020.12.01-22.46.05:720][666]LogRHI: Error: [Aftermath] Status: PageFault
+[2020.12.01-22.46.05:720][666]LogRHI: Error: [Aftermath] GPU Stack Dump
+[2020.12.01-22.46.05:720][666]LogRHI: Error: [Aftermath] 0: FRAME
+[2020.12.01-22.46.05:720][666]LogRHI: Error: [Aftermath] 1: SlateUI Title = <none>
+[2020.12.01-22.46.05:720][666]LogRHI: Error: [Aftermath] GPU Stack Dump
+[2020.12.01-22.46.05:798][666]LogD3D11RHI: [Aftermath] GDynamicRHI=00000130C58B20C0, GDX11NVAfterMathEnabled=1, Result=0x00000001, bDeviceActive=0
+[2020.12.01-22.46.05:798][666]LogWindows: Windows GetLastError: The operation completed successfully. (0)
